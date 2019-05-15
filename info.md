@@ -28,6 +28,8 @@ Your Computer Number is a number between **01** and **75**, you can find it in t
 
 ![Demo](./images/computer.png)
 
+To login, go to [https://platform.adobe.com](https://platform.adobe.com)
+
 When logging in to Adobe Experience Platform solutions, you'll have to enter the username and password during the sign-in process, after which you'll be signing in with an Enterprise ID.
 
 ![Demo](./images/entid.png)
