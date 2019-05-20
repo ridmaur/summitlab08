@@ -1,6 +1,8 @@
 ## LAB8: Data Ingestion through Launch
 In this exercise, the goal is to set up data ingestion through Launch so that the customer behaviour on BT UK's website is streamed to Adobe Experience Platform in real-time.
 
+**Thank you for attending the Adobe Summit Tech Labs for Adobe Experience Platform. If you have feedback or follow-up questions after the Labs, please contact Wouter Van Geluwe - vangeluw@adobe.com directly.**
+
 ### Learning Objectives
 
 - Learn how to create an XDM Schema in Adobe Experience Platform
