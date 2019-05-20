@@ -1,3 +1,7 @@
+# ATTENTION: The below username and password information isn't valid anymore. You can no longer login into this Adobe Experience Platform environment.
+
+If you have follow-up questions after the Summit Tech Labs, please contact Wouter Van Geluwe - vangeluw@adobe.com directly.
+
 ## Before we start...
 
 In this tech lab, you will need a couple of things in order to successfully walk through the content.
